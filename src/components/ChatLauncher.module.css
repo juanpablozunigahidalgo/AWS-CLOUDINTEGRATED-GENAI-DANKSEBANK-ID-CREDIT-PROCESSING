@@ -1,0 +1,23 @@
+.fab {
+  font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Helvetica, Arial, sans-serif;
+  position: fixed; right: 22px; bottom: 22px;
+  width: 64px; height: 64px; border-radius: 50%;
+  background: #0ea5e9;
+  border: 0; cursor: pointer; z-index: 1000;
+  box-shadow: 0 14px 30px rgba(2,132,199,.35);
+  display: grid; place-items: center;
+  transition: transform .1s ease, filter .15s ease;
+}
+.fab:hover { transform: translateY(-1px); filter: brightness(1.06); }
+
+.badge {
+  position:absolute; top:-2px; right:-2px;
+  background:#22c55e; width:12px; height:12px; border-radius:50%;
+  box-shadow: 0 0 0 3px rgba(34,197,94,.25);
+}
+
+.icon {
+  width: 34px; height: 34px; display:block;
+  filter: drop-shadow(0 1px 1px rgba(0,0,0,.2));
+}
