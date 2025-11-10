@@ -1,6 +1,15 @@
 # Danske Bank – Intelligent Onboarding & Verification System
 Cloud + Bedrock Integration (AWS Demonstration Project)
 
+Live version at:
+https://d32wpenppszr7s.cloudfront.net/
+(It will be alive until my tokens are gone and my chatGPT credits are gone. You can try with ID mockup images.)
+
+The Google Drive presentation is HERE 
+https://docs.google.com/presentation/d/1Cqva3h5fH12Sth6LYa0woJRVbDxCXYWKWF7HgVU9Dv8/edit?usp=sharing
+A video of the LIVE WEBSITE IS HERE
+https://drive.google.com/file/d/1ak3JoX5-HpjYj6q8udTHk0W4rvMZDyHx/view?usp=sharing
+
 Author: Juan Pablo Rafael Zúñiga Hidalgo
 📧 juanpablo.zunigah@gmail.com
 
